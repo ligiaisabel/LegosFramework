@@ -3,6 +3,6 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<groupId>com.nokia.legos</groupId>
 	<artifactId>legos-framework</artifactId>
-	<packaging>pom</package>
+	<packaging>pom</packaging>
 	<name>LegosFramework</name>
 </project>
